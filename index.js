@@ -33,4 +33,18 @@ console.log(`The price is $${price}`);
 console.log(`Your gpa is: ${gpa}`);
 
 
+string 
+
+let firstName = "Sashini";
+let favoriteFood = "pizza";
+let email ="sashiniUpeksha@923.gmail"
+
+console.log(typeof firstName);
+console.log(firstName);
+console.log(`Your name is ${firstName}`);
+console.log(`you like ${favoriteFood}`);
+console.log(`your email ${email}`);
+
+
+
   
