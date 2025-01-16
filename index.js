@@ -46,5 +46,15 @@ console.log(`you like ${favoriteFood}`);
 console.log(`your email ${email}`);
 
 
+boolean
+
+let online = false;
+let forSale = true;
+
+console.log(`Bro is online: ${online}`);
+console.log(`Is this car for sale: ${forSale}`);
+
+
+
 
   
